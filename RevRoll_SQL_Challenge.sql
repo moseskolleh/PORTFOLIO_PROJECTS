@@ -1,4 +1,13 @@
 /*
+RevRoll is an auto parts dealer and installer. 
+They offer a full range of automotive parts replacement services.
+
+The data was accesed via this link "postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/revroll?sslmode=require
+In this challenge Questions from the RevRoll corporate office were answered
+*/
+
+
+/*
 Question #1: 
 Installers receive performance based year end bonuses. Bonuses are calculated by taking 10% of the total value of parts installed by the installer.
 
